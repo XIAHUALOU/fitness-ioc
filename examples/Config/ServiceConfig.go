@@ -1,7 +1,7 @@
 package Config
 
 import (
-	"github.com/shenyisyn/goft-ioc/examples/services"
+	"github.com/XIAHUALOU/fitness-ioc/examples/services"
 )
 
 type ServiceConfig struct {

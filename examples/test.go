@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/shenyisyn/goft-ioc"
-	"github.com/shenyisyn/goft-ioc/examples/Config"
-	"github.com/shenyisyn/goft-ioc/examples/services"
+	Injector "github.com/XIAHUALOU/fitness-ioc"
+	"github.com/XIAHUALOU/fitness-ioc/examples/Config"
+	"github.com/XIAHUALOU/fitness-ioc/examples/services"
 )
 
 func main() {
